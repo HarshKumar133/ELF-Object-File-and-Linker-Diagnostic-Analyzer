@@ -1,0 +1,8 @@
+/build/
+/out/
+*.o
+*.a
+*.dSYM/
+.DS_Store
+Skills/
+InformationNeeded.txt
